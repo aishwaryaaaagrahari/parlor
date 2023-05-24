@@ -328,7 +328,7 @@ $(document).ready(function () {
 
 
 /*=============Map Js=================*/
-function initMap() {
+function infitMap() {
 	var uluru = {
 		lat: 40.69785166022129,
 		lng: -73.97968100000003
