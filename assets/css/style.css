@@ -247,7 +247,7 @@ body.animate {
 }
 
 .logo-img {
-	max-width: 350px
+	max-width: 150px;
 }
 
 .loader-img {
